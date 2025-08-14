@@ -1,5 +1,4 @@
 # Mahmoud-Elgamal
-My personal profile
 <!-- ========================= -->
 <!--      Mahmoud Elgamal     -->
 <!-- ========================= -->
