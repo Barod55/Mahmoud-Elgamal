@@ -6,7 +6,7 @@ My personal profile
 
 
 <p align="center">
-  <h1>Hey there, I’m <a href="https://Mahmoud_Elgamal.vercel.app/">Yousef Dergham</a> 👋</h1>
+  <h1>Hey there, I’m <a href="https://Mahmoud_Elgamal.vercel.app/">Mahmoud_Elgamal</a> 👋</h1>
   <p><em>Back-end Developer · CS Student · Coffee Lover ☕</em></p>
   <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
   <p>💼 <strong>Current:</strong> Software Engineer at <a href="almdrasa.com" target="_blank">Almadrsa</p>
